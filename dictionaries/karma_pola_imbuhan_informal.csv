@@ -1,0 +1,499 @@
+id,bentuk_informal,bentuk_baku,kata_dasar,pola_imbuhan,ambigu,catatan,status
+A0001,ngerjain,mengerjakan,kerja,nge-,ya,juga 'mengerjai' (mengakali/mengerjai orang): 'dosen ngerjain mahasiswa',draft_perlu_verifikasi
+A0002,dikerjain,dikerjakan,kerja,di-...-in,ya,juga 'dikerjai' (dikibuli),draft_perlu_verifikasi
+A0003,ngurus,mengurus,urus,n-,tidak,,draft_perlu_verifikasi
+A0004,ngurusin,mengurus,urus,nge-...-in,tidak,'ngurusin' juga 'mengurusi',draft_perlu_verifikasi
+A0005,diurusin,diurus,urus,di-...-in,tidak,,draft_perlu_verifikasi
+A0006,nyari,mencari,cari,ny-,tidak,,draft_perlu_verifikasi
+A0007,nanya,bertanya,tanya,n-,tidak,,draft_perlu_verifikasi
+A0008,nanyain,menanyakan,tanya,n-...-in,tidak,,draft_perlu_verifikasi
+A0009,ditanyain,ditanyakan,tanya,di-...-in,tidak,,draft_perlu_verifikasi
+A0010,nulis,menulis,tulis,n-,tidak,,draft_perlu_verifikasi
+A0011,ngirim,mengirim,kirim,ng-,tidak,,draft_perlu_verifikasi
+A0012,ngirimin,mengirimkan,kirim,ng-...-in,tidak,,draft_perlu_verifikasi
+A0013,dikirimin,dikirimkan,kirim,di-...-in,tidak,,draft_perlu_verifikasi
+A0014,nunggu,menunggu,tunggu,n-,tidak,,draft_perlu_verifikasi
+A0015,nungguin,menunggu,tunggu,n-...-in,tidak,,draft_perlu_verifikasi
+A0016,ditungguin,ditunggu,tunggu,di-...-in,tidak,,draft_perlu_verifikasi
+A0017,ngeluh,mengeluh,keluh,nge-,tidak,,draft_perlu_verifikasi
+A0018,ngeluhin,mengeluhkan,keluh,nge-...-in,tidak,,draft_perlu_verifikasi
+A0019,ngomong,berbicara,omong,ng-,tidak,,draft_perlu_verifikasi
+A0020,ngasih,memberi,kasih,ng-,tidak,,draft_perlu_verifikasi
+A0021,dikasih,diberi,kasih,di-,tidak,,draft_perlu_verifikasi
+A0022,dikasih tau,diberi tahu,kasih tahu,di-,tidak,,draft_perlu_verifikasi
+A0023,ngabarin,mengabari,kabar,ng-...-in,tidak,,draft_perlu_verifikasi
+A0024,ngecek,mengecek,cek,nge-,tidak,,draft_perlu_verifikasi
+A0025,dicek,diperiksa,cek,di-,tidak,'dicek' sudah lazim; opsional diubah,draft_perlu_verifikasi
+A0026,ngecekin,memeriksa,cek,nge-...-in,tidak,,draft_perlu_verifikasi
+A0027,ngebantu,membantu,bantu,nge-,tidak,,draft_perlu_verifikasi
+A0028,bantuin,membantu,bantu,-in,tidak,,draft_perlu_verifikasi
+A0029,dibantuin,dibantu,bantu,di-...-in,tidak,,draft_perlu_verifikasi
+A0030,ngejelasin,menjelaskan,jelas,nge-...-in,tidak,,draft_perlu_verifikasi
+A0031,jelasin,menjelaskan,jelas,-in,tidak,,draft_perlu_verifikasi
+A0032,dijelasin,dijelaskan,jelas,di-...-in,tidak,,draft_perlu_verifikasi
+A0033,nyelesein,menyelesaikan,selesai,ny-...-in,tidak,,draft_perlu_verifikasi
+A0034,diselesein,diselesaikan,selesai,di-...-in,tidak,,draft_perlu_verifikasi
+A0035,beresin,membereskan,beres,-in,tidak,,draft_perlu_verifikasi
+A0036,benerin,memperbaiki,benar,-in,tidak,,draft_perlu_verifikasi
+A0037,ngebenerin,memperbaiki,benar,nge-...-in,tidak,,draft_perlu_verifikasi
+A0038,betulin,memperbaiki,betul,-in,tidak,,draft_perlu_verifikasi
+A0039,dibenerin,diperbaiki,benar,di-...-in,tidak,,draft_perlu_verifikasi
+A0040,nyampein,menyampaikan,sampai,ny-...-in,tidak,,draft_perlu_verifikasi
+A0041,disampein,disampaikan,sampai,di-...-in,tidak,,draft_perlu_verifikasi
+A0042,nyuruh,menyuruh,suruh,ny-,tidak,,draft_perlu_verifikasi
+A0043,dibatalin,dibatalkan,batal,di-...-in,tidak,,draft_perlu_verifikasi
+A0044,ngebatalin,membatalkan,batal,nge-...-in,tidak,,draft_perlu_verifikasi
+A0045,dihapusin,dihapus,hapus,di-...-in,tidak,,draft_perlu_verifikasi
+A0046,dibalesin,dibalas,balas,di-...-in,tidak,,draft_perlu_verifikasi
+A0047,dibales,dibalas,balas,di-,tidak,,draft_perlu_verifikasi
+A0048,ngebales,membalas,balas,nge-,tidak,,draft_perlu_verifikasi
+A0049,dijawabin,dijawab,jawab,di-...-in,tidak,,draft_perlu_verifikasi
+A0050,ngejawab,menjawab,jawab,nge-,tidak,,draft_perlu_verifikasi
+A0051,dibayarin,dibayarkan,bayar,di-...-in,ya,juga 'dibayari' (ditraktir),draft_perlu_verifikasi
+A0052,bayarin,membayarkan,bayar,-in,ya,juga 'membayari',draft_perlu_verifikasi
+A0053,ngelunasin,melunasi,lunas,nge-...-in,tidak,,draft_perlu_verifikasi
+A0054,dilunasin,dilunasi,lunas,di-...-in,tidak,,draft_perlu_verifikasi
+A0055,ngajuin,mengajukan,ajukan,ng-...-in,tidak,,draft_perlu_verifikasi
+A0056,diajuin,diajukan,ajukan,di-...-in,tidak,,draft_perlu_verifikasi
+A0057,ngumpulin,mengumpulkan,kumpul,ng-...-in,tidak,,draft_perlu_verifikasi
+A0058,dikumpulin,dikumpulkan,kumpul,di-...-in,tidak,,draft_perlu_verifikasi
+A0059,ngelapor,melapor,lapor,nge-,tidak,,draft_perlu_verifikasi
+A0060,ngelaporin,melaporkan,lapor,nge-...-in,tidak,,draft_perlu_verifikasi
+A0061,dilaporin,dilaporkan,lapor,di-...-in,tidak,,draft_perlu_verifikasi
+A0062,ngadu,mengadu,adu,ng-,tidak,,draft_perlu_verifikasi
+A0063,ngaduin,mengadukan,adu,ng-...-in,tidak,,draft_perlu_verifikasi
+A0064,diaduin,diadukan,adu,di-...-in,tidak,,draft_perlu_verifikasi
+A0065,ngeluarin,mengeluarkan,keluar,nge-...-in,tidak,,draft_perlu_verifikasi
+A0066,dikeluarin,dikeluarkan,keluar,di-...-in,tidak,,draft_perlu_verifikasi
+A0067,keliatan,terlihat,lihat,ke-,tidak,,draft_perlu_verifikasi
+A0068,kedengeran,terdengar,dengar,ke-,tidak,,draft_perlu_verifikasi
+A0069,ketinggalan,tertinggal,tinggal,ke-...-an,ya,juga 'ketinggalan (info/jadwal/kelas)',draft_perlu_verifikasi
+A0070,kelewat,terlewat,lewat,ke-,tidak,,draft_perlu_verifikasi
+A0071,kelupaan,terlupa,lupa,ke-...-an,tidak,,draft_perlu_verifikasi
+A0072,kepake,terpakai,pakai,ke-,tidak,,draft_perlu_verifikasi
+A0073,ketemu,bertemu,temu,ke-,tidak,,draft_perlu_verifikasi
+A0074,ketauan,ketahuan,tahu,ke-,tidak,,draft_perlu_verifikasi
+A0075,kejebak,terjebak,jebak,ke-,tidak,,draft_perlu_verifikasi
+A0076,keblokir,terblokir,blokir,ke-,tidak,,draft_perlu_verifikasi
+A0077,kehapus,terhapus,hapus,ke-,tidak,,draft_perlu_verifikasi
+A0078,keinput,terinput,input,ke-,tidak,,draft_perlu_verifikasi
+A0079,ketolak,tertolak,tolak,ke-,tidak,,draft_perlu_verifikasi
+A0080,ketunda,tertunda,tunda,ke-,tidak,,draft_perlu_verifikasi
+A0081,ngobrol,bercakap-cakap,obrol,ng-,tidak,,draft_perlu_verifikasi
+A0082,ngebahas,membahas,bahas,nge-,tidak,,draft_perlu_verifikasi
+A0083,ngejar,mengejar,jar,nge-,tidak,,draft_perlu_verifikasi
+A0084,ngerasa,merasa,rasa,nge-,tidak,,draft_perlu_verifikasi
+A0085,ngerasain,merasakan,rasa,nge-...-in,tidak,,draft_perlu_verifikasi
+A0086,dirasain,dirasakan,rasa,di-...-in,tidak,,draft_perlu_verifikasi
+A0087,ngalamin,mengalami,alam,ng-...-in,tidak,,draft_perlu_verifikasi
+A0088,dialamin,dialami,alam,di-...-in,tidak,,draft_perlu_verifikasi
+A0089,ngubah,mengubah,ubah,ng-,tidak,,draft_perlu_verifikasi
+A0090,ngerubah,mengubah,ubah,nge-,tidak,'merubah' tidak baku,draft_perlu_verifikasi
+A0091,ngeganti,mengganti,ganti,nge-,tidak,,draft_perlu_verifikasi
+A0092,ngegantiin,menggantikan,ganti,nge-...-in,tidak,,draft_perlu_verifikasi
+A0093,digantiin,digantikan,ganti,di-...-in,tidak,,draft_perlu_verifikasi
+A0094,ngejanjiin,menjanjikan,janji,nge-...-in,tidak,,draft_perlu_verifikasi
+A0095,dijanjiin,dijanjikan,janji,di-...-in,tidak,sering konteks keluhan: dijanjikan tapi tidak terealisasi,draft_perlu_verifikasi
+A0096,ngecewain,mengecewakan,kecewa,nge-...-in,tidak,,draft_perlu_verifikasi
+A0097,dikecewain,dikecewakan,kecewa,di-...-in,tidak,,draft_perlu_verifikasi
+A0098,ngerugiin,merugikan,rugi,nge-...-in,tidak,,draft_perlu_verifikasi
+A0099,dirugiin,dirugikan,rugi,di-...-in,tidak,,draft_perlu_verifikasi
+A0100,ngerepotin,merepotkan,repot,nge-...-in,tidak,,draft_perlu_verifikasi
+A0101,ngurangin,mengurangi,kurang,ng-...-in,tidak,,draft_perlu_verifikasi
+A0102,dikurangin,dikurangi,kurang,di-...-in,tidak,,draft_perlu_verifikasi
+A0103,nambahin,menambahkan,tambah,n-...-in,tidak,,draft_perlu_verifikasi
+A0104,ditambahin,ditambahkan,tambah,di-...-in,tidak,,draft_perlu_verifikasi
+A0105,ngertiin,memahami,erti,ng-...-in,tidak,,draft_perlu_verifikasi
+A0106,bikin,membuat,bikin,(tanpa afiks),ya,'bikin' = membuat atau menyebabkan ('bikin stres'),draft_perlu_verifikasi
+A0107,bikinin,membuatkan,bikin,-in,tidak,,draft_perlu_verifikasi
+A0108,dibikin,dibuat,bikin,di-,tidak,,draft_perlu_verifikasi
+A0109,dibikinin,dibuatkan,bikin,di-...-in,tidak,,draft_perlu_verifikasi
+A0110,dianter,diantar,antar,di-,tidak,,draft_perlu_verifikasi
+A0111,nganter,mengantar,antar,ng-,tidak,,draft_perlu_verifikasi
+A0112,dianterin,diantarkan,antar,di-...-in,tidak,,draft_perlu_verifikasi
+A0113,ngantri,mengantre,antre,ng-,tidak,,draft_perlu_verifikasi
+A0114,ditagihin,ditagih,tagih,di-...-in,tidak,,draft_perlu_verifikasi
+A0115,dikonfirmasiin,dikonfirmasi,konfirmasi,di-...-in,tidak,,draft_perlu_verifikasi
+A0116,diproses in,diproses,proses,di-...-in,tidak,,draft_perlu_verifikasi
+A0117,ditelp,ditelepon,telepon,di-,tidak,,draft_perlu_verifikasi
+A0118,ditelpon,ditelepon,telepon,di-,tidak,,draft_perlu_verifikasi
+A0119,dicall,ditelepon,call,di-,tidak,campur kode,draft_perlu_verifikasi
+A0120,dichat,dikirimi pesan,chat,di-,tidak,campur kode,draft_perlu_verifikasi
+A0121,ngechat,mengirim pesan,chat,nge-,tidak,campur kode,draft_perlu_verifikasi
+A0122,ngecall,menelepon,call,nge-,tidak,campur kode,draft_perlu_verifikasi
+A0123,nge-chat,mengirim pesan,chat,nge-,tidak,campur kode,draft_perlu_verifikasi
+A0124,diclose,ditutup,close,di-,tidak,campur kode; tiket diclose = ditutup,draft_perlu_verifikasi
+A0125,diupdate,diperbarui,update,di-,tidak,campur kode,draft_perlu_verifikasi
+A0126,dicancel,dibatalkan,cancel,di-,tidak,campur kode,draft_perlu_verifikasi
+A0127,diinfo,diinformasikan,info,di-,tidak,campur kode,draft_perlu_verifikasi
+A0128,diinfoin,diinformasikan,info,di-...-in,tidak,campur kode,draft_perlu_verifikasi
+A0129,disuruh,disuruh,suruh,di-,tidak,sudah baku; hanya untuk kelengkapan pola,draft_perlu_verifikasi
+A0130,dimundurin,dimundurkan,mundur,di-...-in,tidak,jadwal diundur/dimundurkan,draft_perlu_verifikasi
+A0131,diundur,diundurkan,undur,di-,tidak,jadwal ujian/sidang diundur; tidak perlu diubah,draft_perlu_verifikasi
+A0132,dipercepat,dipercepat,cepat,di-,tidak,sudah baku,draft_perlu_verifikasi
+A0133,dioper,dilempar antarunit,oper,di-,ya,bisa juga 'dioper' bola; di kampus = dilempar antarunit,draft_perlu_verifikasi
+A0134,ngelock,mengunci,lock,nge-,tidak,padanan 'lock' = kunci,draft_perlu_verifikasi
+A0135,ngelockin,mengunci,lock,nge-...-in,tidak,padanan 'lock' = kunci,draft_perlu_verifikasi
+A0136,dilock,dikunci,lock,di-,tidak,,draft_perlu_verifikasi
+A0137,dilockin,dikunci,lock,di-...-in,tidak,,draft_perlu_verifikasi
+A0138,kelock,terkunci,lock,ke-,ya,'kelock' = terkunci atau terblokir; akun/KRS 'kelock' perlu dibedakan dari 'keblokir',draft_perlu_verifikasi
+A0139,lockan,penguncian,lock,-an,tidak,,draft_perlu_verifikasi
+A0140,ngedrop,menggugurkan (mata kuliah),drop,nge-,ya,'ngedrop' = menarik/membatalkan MK; bukan 'drop out',draft_perlu_verifikasi
+A0141,ngedropin,menggugurkan,drop,nge-...-in,tidak,,draft_perlu_verifikasi
+A0142,didrop,digugurkan,drop,di-,ya,"'didrop' = MK dibatalkan, atau mahasiswa dikeluarkan (DO)",draft_perlu_verifikasi
+A0143,didropin,digugurkan,drop,di-...-in,ya,'didropin' = dibatalkan/dikeluarkan,draft_perlu_verifikasi
+A0144,kedrop,tergugur,drop,ke-,ya,'kedrop' = gugur dari MK atau ter-drop sistem tanpa sengaja,draft_perlu_verifikasi
+A0145,dropan,pengguguran,drop,-an,tidak,,draft_perlu_verifikasi
+A0146,ngulang,mengulang,ulang,ng-,tidak,,draft_perlu_verifikasi
+A0147,ngulangin,mengulangi,ulang,ng-...-in,tidak,,draft_perlu_verifikasi
+A0148,diulangin,diulang,ulang,di-...-in,tidak,,draft_perlu_verifikasi
+A0149,keulang,terulang,ulang,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0150,nyicil,mencicil,cicil,ny-,tidak,,draft_perlu_verifikasi
+A0151,nyicilin,mencicil,cicil,ny-...-in,tidak,,draft_perlu_verifikasi
+A0152,dicicilin,dicicil,cicil,di-...-in,tidak,,draft_perlu_verifikasi
+A0153,nagih,menagih,tagih,n-,tidak,,draft_perlu_verifikasi
+A0154,nagihin,menagih,tagih,n-...-in,tidak,,draft_perlu_verifikasi
+A0155,ketagih,ketagihan,tagih,ke-,ya,'ketagih' = ketagihan (kecanduan) atau tertagih; biasanya bukan konteks biaya,draft_perlu_verifikasi
+A0156,ngedispen,memberi dispensasi,dispen,nge-,tidak,'dispen' = dispensasi (keringanan/izin khusus),draft_perlu_verifikasi
+A0157,ngedispenin,memberi dispensasi,dispen,nge-...-in,tidak,'dispen' = dispensasi (keringanan/izin khusus),draft_perlu_verifikasi
+A0158,didispen,diberi dispensasi,dispen,di-,tidak,,draft_perlu_verifikasi
+A0159,didispenin,diberi dispensasi,dispen,di-...-in,tidak,,draft_perlu_verifikasi
+A0160,dispenan,dispensasi,dispen,-an,tidak,,draft_perlu_verifikasi
+A0161,ngesubmit,mengumpulkan,submit,nge-,tidak,padanan 'submit' = kumpul/kirim/unggah,draft_perlu_verifikasi
+A0162,ngesubmitin,mengumpulkan,submit,nge-...-in,tidak,padanan 'submit' = kumpul/kirim/unggah,draft_perlu_verifikasi
+A0163,disubmit,dikumpulkan,submit,di-,tidak,,draft_perlu_verifikasi
+A0164,disubmitin,dikumpulkan,submit,di-...-in,tidak,,draft_perlu_verifikasi
+A0165,kesubmit,terkirim,submit,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0166,submitan,kiriman,submit,-an,tidak,,draft_perlu_verifikasi
+A0167,ngepending,menunda,pending,nge-,ya,'ngepending' = menahan proses,draft_perlu_verifikasi
+A0168,ngependingin,menunda,pending,nge-...-in,tidak,,draft_perlu_verifikasi
+A0169,dipending,ditunda,pending,di-,tidak,,draft_perlu_verifikasi
+A0170,dipendingin,ditunda,pending,di-...-in,tidak,,draft_perlu_verifikasi
+A0171,kepending,tertunda,pending,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0172,pendingan,penundaan,pending,-an,ya,'pendingan' = hal/pekerjaan yang tertunda,draft_perlu_verifikasi
+A0173,ngeapprove,menyetujui,approve,nge-,tidak,,draft_perlu_verifikasi
+A0174,ngeapprovein,menyetujui,approve,nge-...-in,tidak,,draft_perlu_verifikasi
+A0175,diapprove,disetujui,approve,di-,tidak,,draft_perlu_verifikasi
+A0176,diapprovein,disetujui,approve,di-...-in,tidak,,draft_perlu_verifikasi
+A0177,keapprove,tersetujui,approve,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0178,approvean,persetujuan,approve,-an,tidak,,draft_perlu_verifikasi
+A0179,ngapprove,menyetujui,approve,ng-,tidak,varian ngapprove,draft_perlu_verifikasi
+A0180,ngereject,menolak,reject,nge-,tidak,,draft_perlu_verifikasi
+A0181,ngerejectin,menolak,reject,nge-...-in,tidak,,draft_perlu_verifikasi
+A0182,direject,ditolak,reject,di-,tidak,,draft_perlu_verifikasi
+A0183,direjectin,ditolak,reject,di-...-in,tidak,,draft_perlu_verifikasi
+A0184,kereject,tertolak,reject,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0185,rejectan,penolakan,reject,-an,tidak,,draft_perlu_verifikasi
+A0186,ngerevisi,merevisi,revisi,nge-,tidak,,draft_perlu_verifikasi
+A0187,ngerevisiin,merevisi,revisi,nge-...-in,tidak,,draft_perlu_verifikasi
+A0188,direvisiin,direvisi,revisi,di-...-in,tidak,,draft_perlu_verifikasi
+A0189,kerevisi,terevisi,revisi,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0190,revisian,hasil revisi,revisi,-an,tidak,,draft_perlu_verifikasi
+A0191,ngeprint,mencetak,print,nge-,tidak,'print' = cetak,draft_perlu_verifikasi
+A0192,ngeprintin,mencetakkan,print,nge-...-in,tidak,'print' = cetak,draft_perlu_verifikasi
+A0193,diprint,dicetak,print,di-,tidak,,draft_perlu_verifikasi
+A0194,diprintin,dicetak,print,di-...-in,tidak,,draft_perlu_verifikasi
+A0195,keprint,tercetak,print,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0196,printan,hasil cetak,print,-an,tidak,,draft_perlu_verifikasi
+A0197,ngedownload,mengunduh,download,nge-,tidak,,draft_perlu_verifikasi
+A0198,ngedownloadin,mengunduhkan,download,nge-...-in,tidak,,draft_perlu_verifikasi
+A0199,didownload,diunduh,download,di-,tidak,,draft_perlu_verifikasi
+A0200,didownloadin,diunduh,download,di-...-in,tidak,,draft_perlu_verifikasi
+A0201,kedownload,terunduh,download,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0202,downloadan,unduhan,download,-an,tidak,,draft_perlu_verifikasi
+A0203,ngupload,mengunggah,upload,ng-,tidak,,draft_perlu_verifikasi
+A0204,nguploadin,mengunggahkan,upload,ng-...-in,tidak,,draft_perlu_verifikasi
+A0205,diupload,diunggah,upload,di-,tidak,,draft_perlu_verifikasi
+A0206,diuploadin,diunggah,upload,di-...-in,tidak,,draft_perlu_verifikasi
+A0207,keupload,terunggah,upload,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0208,uploadan,unggahan,upload,-an,tidak,,draft_perlu_verifikasi
+A0209,ngescan,memindai,scan,nge-,tidak,'scan' = pindai,draft_perlu_verifikasi
+A0210,ngescanin,memindaikan,scan,nge-...-in,tidak,'scan' = pindai,draft_perlu_verifikasi
+A0211,discan,dipindai,scan,di-,tidak,,draft_perlu_verifikasi
+A0212,discanin,dipindai,scan,di-...-in,tidak,,draft_perlu_verifikasi
+A0213,kescan,terpindai,scan,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0214,scanan,hasil pindai,scan,-an,tidak,,draft_perlu_verifikasi
+A0215,ngelogin,masuk ke akun (login),login,nge-,tidak,,draft_perlu_verifikasi
+A0216,ngeloginin,memasukkan ke akun,login,nge-...-in,tidak,,draft_perlu_verifikasi
+A0217,dilogin,dimasuki akunnya,login,di-,ya,'dilogin' = akun dimasuki/dipakai login (kadang orang lain); relevan keamanan akun,draft_perlu_verifikasi
+A0218,diloginin,dimasuki akunnya,login,di-...-in,ya,'dilogin-in' = dimasukkan ke akun,draft_perlu_verifikasi
+A0219,kelogin,terlogin,login,ke-,ya,'kelogin' = tidak sengaja terlogin (mis. di perangkat lain),draft_perlu_verifikasi
+A0220,loginan,akun login,login,-an,tidak,,draft_perlu_verifikasi
+A0221,ngelogout,keluar dari akun (logout),logout,nge-,tidak,,draft_perlu_verifikasi
+A0222,ngelogoutin,mengeluarkan dari akun,logout,nge-...-in,tidak,,draft_perlu_verifikasi
+A0223,dilogout,dikeluarkan dari akun,logout,di-,tidak,,draft_perlu_verifikasi
+A0224,dilogoutin,dikeluarkan dari akun,logout,di-...-in,tidak,,draft_perlu_verifikasi
+A0225,kelogout,terlogout,logout,ke-,ya,'kelogout' = keluar sendiri tanpa disengaja (sesi habis),draft_perlu_verifikasi
+A0226,ngereset,mengatur ulang,reset,nge-,tidak,,draft_perlu_verifikasi
+A0227,ngeresetin,mengatur ulang,reset,nge-...-in,tidak,,draft_perlu_verifikasi
+A0228,direset,diatur ulang,reset,di-,tidak,,draft_perlu_verifikasi
+A0229,diresetin,diatur ulang,reset,di-...-in,tidak,,draft_perlu_verifikasi
+A0230,kereset,ter-reset,reset,ke-,ya,'kereset' = tidak sengaja ter-reset atau data hilang,draft_perlu_verifikasi
+A0231,keganti,terganti,ganti,ke-,ya,'keganti' = berganti tanpa pemberitahuan (jadwal/dosen/ruang),draft_perlu_verifikasi
+A0232,gantian,pergantian,ganti,-an,tidak,,draft_perlu_verifikasi
+A0233,ngekomplain,mengajukan keluhan,komplain,nge-,tidak,,draft_perlu_verifikasi
+A0234,ngekomplainin,mengeluhkan,komplain,nge-...-in,tidak,,draft_perlu_verifikasi
+A0235,dikomplain,dikeluhkan,komplain,di-,tidak,,draft_perlu_verifikasi
+A0236,dikomplainin,dikeluhkan,komplain,di-...-in,tidak,,draft_perlu_verifikasi
+A0237,komplainan,keluhan,komplain,-an,tidak,,draft_perlu_verifikasi
+A0238,ngehubungin,menghubungi,hubung,nge-...-in,tidak,,draft_perlu_verifikasi
+A0239,dihubungin,dihubungi,hubung,di-...-in,tidak,,draft_perlu_verifikasi
+A0240,kehubung,terhubung,hubung,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0241,nanggepin,menanggapi,tanggep,n-...-in,tidak,,draft_perlu_verifikasi
+A0242,ditanggepin,ditanggapi,tanggep,di-...-in,tidak,,draft_perlu_verifikasi
+A0243,tanggepan,tanggapan,tanggep,-an,tidak,,draft_perlu_verifikasi
+A0244,ngeproses,memproses,proses,nge-,tidak,,draft_perlu_verifikasi
+A0245,ngeprosesin,memproses,proses,nge-...-in,tidak,,draft_perlu_verifikasi
+A0246,diprosesin,diproses,proses,di-...-in,tidak,,draft_perlu_verifikasi
+A0247,keproses,terproses,proses,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0248,prosesan,pemrosesan,proses,-an,tidak,,draft_perlu_verifikasi
+A0249,ngelayanin,melayani,layan,nge-...-in,tidak,,draft_perlu_verifikasi
+A0250,dilayanin,dilayani,layan,di-...-in,tidak,,draft_perlu_verifikasi
+A0251,kelayan,terlayani,layan,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0252,layanan,pelayanan,layan,-an,tidak,,draft_perlu_verifikasi
+A0253,ngetransfer,mentransfer,transfer,nge-,tidak,,draft_perlu_verifikasi
+A0254,ngetransferin,mentransfer,transfer,nge-...-in,tidak,,draft_perlu_verifikasi
+A0255,ditransferin,ditransfer,transfer,di-...-in,tidak,,draft_perlu_verifikasi
+A0256,ketransfer,tertransfer,transfer,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0257,ngeverifikasi,memverifikasi,verifikasi,nge-,tidak,,draft_perlu_verifikasi
+A0258,ngeverifikasiin,memverifikasi,verifikasi,nge-...-in,tidak,,draft_perlu_verifikasi
+A0259,diverifikasiin,diverifikasi,verifikasi,di-...-in,tidak,,draft_perlu_verifikasi
+A0260,keverifikasi,terverifikasi,verifikasi,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0261,ngeinput,memasukkan data,input,nge-,tidak,,draft_perlu_verifikasi
+A0262,ngeinputin,memasukkan data,input,nge-...-in,tidak,,draft_perlu_verifikasi
+A0263,diinput,dimasukkan,input,di-,tidak,,draft_perlu_verifikasi
+A0264,diinputin,dimasukkan,input,di-...-in,tidak,,draft_perlu_verifikasi
+A0265,ngehapus,menghapus,hapus,nge-,tidak,,draft_perlu_verifikasi
+A0266,ngehapusin,menghapus,hapus,nge-...-in,tidak,,draft_perlu_verifikasi
+A0267,ngeblokir,memblokir,blokir,nge-,tidak,,draft_perlu_verifikasi
+A0268,ngeblokirin,memblokir,blokir,nge-...-in,tidak,,draft_perlu_verifikasi
+A0269,diblokirin,diblokir,blokir,di-...-in,tidak,,draft_perlu_verifikasi
+A0270,blokiran,pemblokiran,blokir,-an,tidak,,draft_perlu_verifikasi
+A0271,ngeblock,memblokir,block,nge-,tidak,,draft_perlu_verifikasi
+A0272,ngeblockin,memblokir,block,nge-...-in,tidak,,draft_perlu_verifikasi
+A0273,diblock,diblokir,block,di-,tidak,,draft_perlu_verifikasi
+A0274,diblockin,diblokir,block,di-...-in,tidak,,draft_perlu_verifikasi
+A0275,keblock,terblokir,block,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0276,nolak,menolak,tolak,n-,tidak,,draft_perlu_verifikasi
+A0277,nolakin,menolak,tolak,n-...-in,tidak,,draft_perlu_verifikasi
+A0278,ditolakin,ditolak,tolak,di-...-in,tidak,,draft_perlu_verifikasi
+A0279,tolakan,penolakan,tolak,-an,tidak,,draft_perlu_verifikasi
+A0280,nunda,menunda,tunda,n-,tidak,,draft_perlu_verifikasi
+A0281,nundain,menunda,tunda,n-...-in,tidak,,draft_perlu_verifikasi
+A0282,ditundain,ditunda,tunda,di-...-in,tidak,,draft_perlu_verifikasi
+A0283,tundaan,penundaan,tunda,-an,tidak,,draft_perlu_verifikasi
+A0284,ndaftar,mendaftar,daftar,n-,ya,'ndaftar' = mendaftar (diri sendiri); 'daftarin' = mendaftarkan (orang lain),draft_perlu_verifikasi
+A0285,ndaftarin,mendaftarkan,daftar,n-...-in,tidak,,draft_perlu_verifikasi
+A0286,didaftarin,didaftar,daftar,di-...-in,tidak,,draft_perlu_verifikasi
+A0287,kedaftar,terdaftar,daftar,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0288,daftaran,pendaftaran,daftar,-an,tidak,,draft_perlu_verifikasi
+A0289,mbayar,membayar,bayar,m-,tidak,,draft_perlu_verifikasi
+A0290,mbayarin,membayarkan,bayar,m-...-in,tidak,,draft_perlu_verifikasi
+A0291,kebayar,terbayar,bayar,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0292,kekirim,terkirim,kirim,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0293,dicekin,dicek,cek,di-...-in,tidak,,draft_perlu_verifikasi
+A0294,kecek,tercek,cek,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0295,cekan,pengecekan,cek,-an,tidak,,draft_perlu_verifikasi
+A0296,ngekonfirmasi,mengonfirmasi,konfirmasi,nge-,tidak,,draft_perlu_verifikasi
+A0297,ngekonfirmasiin,mengonfirmasi,konfirmasi,nge-...-in,tidak,,draft_perlu_verifikasi
+A0298,kekonfirmasi,terkonfirmasi,konfirmasi,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0299,ngupdate,memperbarui,update,ng-,tidak,,draft_perlu_verifikasi
+A0300,ngupdatein,memperbarui,update,ng-...-in,tidak,,draft_perlu_verifikasi
+A0301,diupdatein,diperbarui,update,di-...-in,tidak,,draft_perlu_verifikasi
+A0302,keupdate,terperbarui,update,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0303,updatean,pembaruan,update,-an,tidak,,draft_perlu_verifikasi
+A0304,ngeupdate,memperbarui,update,nge-,tidak,varian ngeupdate,draft_perlu_verifikasi
+A0305,ngubahin,mengubah,ubah,ng-...-in,tidak,,draft_perlu_verifikasi
+A0306,diubahin,diubah,ubah,di-...-in,tidak,,draft_perlu_verifikasi
+A0307,keubah,terubah,ubah,ke-,ya,'keubah' = berubah tanpa disengaja/tanpa pemberitahuan,draft_perlu_verifikasi
+A0308,ubahan,perubahan,ubah,-an,tidak,,draft_perlu_verifikasi
+A0309,ngoreksi,mengoreksi,koreksi,ng-,tidak,,draft_perlu_verifikasi
+A0310,ngoreksiin,mengoreksi,koreksi,ng-...-in,tidak,,draft_perlu_verifikasi
+A0311,dikoreksiin,dikoreksi,koreksi,di-...-in,tidak,,draft_perlu_verifikasi
+A0312,kekoreksi,terkoreksi,koreksi,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0313,koreksian,hasil koreksi,koreksi,-an,tidak,,draft_perlu_verifikasi
+A0314,ngisi,mengisi,isi,ng-,tidak,,draft_perlu_verifikasi
+A0315,ngisiin,mengisi,isi,ng-...-in,tidak,,draft_perlu_verifikasi
+A0316,diisiin,diisi,isi,di-...-in,tidak,,draft_perlu_verifikasi
+A0317,keisi,terisi,isi,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0318,nyetak,mencetak,cetak,ny-,tidak,,draft_perlu_verifikasi
+A0319,nyetakin,mencetak,cetak,ny-...-in,tidak,,draft_perlu_verifikasi
+A0320,dicetakin,dicetak,cetak,di-...-in,tidak,,draft_perlu_verifikasi
+A0321,kecetak,tercetak,cetak,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0322,nyimpen,menyimpan,simpen,ny-,tidak,,draft_perlu_verifikasi
+A0323,nyimpenin,menyimpan,simpen,ny-...-in,tidak,,draft_perlu_verifikasi
+A0324,disimpen,disimpan,simpen,di-,tidak,,draft_perlu_verifikasi
+A0325,disimpenin,disimpan,simpen,di-...-in,tidak,,draft_perlu_verifikasi
+A0326,kesimpen,tersimpan,simpen,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0327,simpenan,simpanan,simpen,-an,ya,'simpenan' = simpanan/tabungan,draft_perlu_verifikasi
+A0328,ngumpul,berkumpul,kumpul,ng-,ya,'ngumpul' = berkumpul; 'ngumpul tugas' = mengumpulkan,draft_perlu_verifikasi
+A0329,dikumpul,dikumpulkan,kumpul,di-,tidak,,draft_perlu_verifikasi
+A0330,kekumpul,terkumpul,kumpul,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0331,nyalin,menyalin,salin,ny-,tidak,,draft_perlu_verifikasi
+A0332,nyalinin,menyalin,salin,ny-...-in,tidak,,draft_perlu_verifikasi
+A0333,disalinin,disalin,salin,di-...-in,tidak,,draft_perlu_verifikasi
+A0334,kesalin,tersalin,salin,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0335,ngefoto,memotret,foto,nge-,tidak,,draft_perlu_verifikasi
+A0336,ngefotoin,memotret,foto,nge-...-in,tidak,,draft_perlu_verifikasi
+A0337,difotoin,difoto,foto,di-...-in,tidak,,draft_perlu_verifikasi
+A0338,kefoto,terfoto,foto,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0339,fotoan,hasil foto,foto,-an,tidak,,draft_perlu_verifikasi
+A0340,ngefotokopi,memfotokopi,fotokopi,nge-,tidak,,draft_perlu_verifikasi
+A0341,ngefotokopiin,memfotokopi,fotokopi,nge-...-in,tidak,,draft_perlu_verifikasi
+A0342,difotokopiin,difotokopi,fotokopi,di-...-in,tidak,,draft_perlu_verifikasi
+A0343,kefotokopi,terfotokopi,fotokopi,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0344,fotokopian,hasil fotokopi,fotokopi,-an,tidak,,draft_perlu_verifikasi
+A0345,ngaktifin,mengaktifkan,aktif,ng-...-in,tidak,,draft_perlu_verifikasi
+A0346,diaktifin,diaktifkan,aktif,di-...-in,tidak,,draft_perlu_verifikasi
+A0347,keaktif,teraktifkan,aktif,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0348,aktifan,aktivasi,aktif,-an,tidak,,draft_perlu_verifikasi
+A0349,nonaktifin,menonaktifkan,nonaktif,n-in,tidak,,draft_perlu_verifikasi
+A0350,dinonaktifin,dinonaktifkan,nonaktif,di-...-in,tidak,,draft_perlu_verifikasi
+A0351,kenonaktif,ternonaktifkan,nonaktif,ke-,ya,'kenonaktif' = akun/status ternonaktifkan tanpa pemberitahuan,draft_perlu_verifikasi
+A0352,nonaktifan,penonaktifan,nonaktif,-an,tidak,,draft_perlu_verifikasi
+A0353,ngebuka,membuka,buka,nge-,tidak,,draft_perlu_verifikasi
+A0354,ngebukain,membukakan,buka,nge-...-in,tidak,,draft_perlu_verifikasi
+A0355,dibukain,dibuka,buka,di-...-in,tidak,,draft_perlu_verifikasi
+A0356,kebuka,terbuka,buka,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0357,mbuka,membuka,buka,m-,tidak,varian mbuka,draft_perlu_verifikasi
+A0358,nutup,menutup,tutup,n-,tidak,,draft_perlu_verifikasi
+A0359,nutupin,menutup,tutup,n-...-in,tidak,,draft_perlu_verifikasi
+A0360,ditutupin,ditutup,tutup,di-...-in,tidak,,draft_perlu_verifikasi
+A0361,ketutup,tertutup,tutup,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0362,tutupan,penutupan,tutup,-an,tidak,,draft_perlu_verifikasi
+A0363,ngeinstall,memasang,install,nge-,tidak,,draft_perlu_verifikasi
+A0364,ngeinstallin,memasangkan,install,nge-...-in,tidak,,draft_perlu_verifikasi
+A0365,diinstall,dipasang,install,di-,tidak,,draft_perlu_verifikasi
+A0366,diinstallin,dipasang,install,di-...-in,tidak,,draft_perlu_verifikasi
+A0367,keinstall,terpasang,install,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0368,ngerestart,memulai ulang,restart,nge-,tidak,,draft_perlu_verifikasi
+A0369,ngerestartin,memulai ulang,restart,nge-...-in,tidak,,draft_perlu_verifikasi
+A0370,direstart,dimulai ulang,restart,di-,tidak,,draft_perlu_verifikasi
+A0371,direstartin,dimulai ulang,restart,di-...-in,tidak,,draft_perlu_verifikasi
+A0372,kerestart,ter-restart,restart,ke-,ya,'kerestart' = restart sendiri tanpa disengaja,draft_perlu_verifikasi
+A0373,ngerefresh,memuat ulang,refresh,nge-,tidak,,draft_perlu_verifikasi
+A0374,ngerefreshin,memuat ulang,refresh,nge-...-in,tidak,,draft_perlu_verifikasi
+A0375,direfresh,dimuat ulang,refresh,di-,tidak,,draft_perlu_verifikasi
+A0376,direfreshin,dimuat ulang,refresh,di-...-in,tidak,,draft_perlu_verifikasi
+A0377,kerefresh,termuat ulang,refresh,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0378,ngereload,memuat ulang,reload,nge-,tidak,,draft_perlu_verifikasi
+A0379,ngereloadin,memuat ulang,reload,nge-...-in,tidak,,draft_perlu_verifikasi
+A0380,direload,dimuat ulang,reload,di-,tidak,,draft_perlu_verifikasi
+A0381,direloadin,dimuat ulang,reload,di-...-in,tidak,,draft_perlu_verifikasi
+A0382,kereload,termuat ulang,reload,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0383,ngeedit,menyunting,edit,nge-,tidak,,draft_perlu_verifikasi
+A0384,ngeeditin,menyunting,edit,nge-...-in,tidak,,draft_perlu_verifikasi
+A0385,diedit,disunting,edit,di-,tidak,,draft_perlu_verifikasi
+A0386,dieditin,disunting,edit,di-...-in,tidak,,draft_perlu_verifikasi
+A0387,keedit,tersunting,edit,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0388,editan,hasil suntingan,edit,-an,tidak,,draft_perlu_verifikasi
+A0389,nyalahin,menyalahkan,salah,ny-...-in,tidak,,draft_perlu_verifikasi
+A0390,disalahin,disalahkan,salah,di-...-in,tidak,,draft_perlu_verifikasi
+A0391,nyelip,menyelip,selip,ny-,tidak,,draft_perlu_verifikasi
+A0392,nyelipin,menyelipkan,selip,ny-...-in,tidak,,draft_perlu_verifikasi
+A0393,diselip,diselipkan,selip,di-,tidak,,draft_perlu_verifikasi
+A0394,diselipin,diselipkan,selip,di-...-in,tidak,,draft_perlu_verifikasi
+A0395,keselip,terselip,selip,ke-,ya,'keselip' = terselip (berkas/pesan terlewat) atau terselip di antara tumpukan,draft_perlu_verifikasi
+A0396,ngedobel,menggandakan,dobel,nge-,tidak,,draft_perlu_verifikasi
+A0397,ngedobelin,menggandakan,dobel,nge-...-in,tidak,,draft_perlu_verifikasi
+A0398,didobel,digandakan,dobel,di-,tidak,,draft_perlu_verifikasi
+A0399,didobelin,digandakan,dobel,di-...-in,tidak,,draft_perlu_verifikasi
+A0400,kedobel,tercatat ganda,dobel,ke-,ya,'kedobel' = tercatat/terbayar/ter-input ganda,draft_perlu_verifikasi
+A0401,nabrak,menabrak,tabrak,n-,tidak,,draft_perlu_verifikasi
+A0402,nabrakin,menabrakkan,tabrak,n-...-in,tidak,,draft_perlu_verifikasi
+A0403,ditabrakin,ditabrak,tabrak,di-...-in,tidak,,draft_perlu_verifikasi
+A0404,ketabrak,bertabrakan (jadwal bentrok),tabrak,ke-,ya,'ketabrak' = jadwal bentrok atau tertabrak (kecelakaan); di domain KRS biasanya bentrok,draft_perlu_verifikasi
+A0405,ngegeser,menggeser,geser,nge-,tidak,,draft_perlu_verifikasi
+A0406,ngegeserin,menggeser,geser,nge-...-in,tidak,,draft_perlu_verifikasi
+A0407,digeserin,digeser,geser,di-...-in,tidak,,draft_perlu_verifikasi
+A0408,kegeser,tergeser,geser,ke-,ya,'kegeser' = jadwal/kelas tergeser tanpa pemberitahuan,draft_perlu_verifikasi
+A0409,ngitung,menghitung,hitung,ng-,tidak,,draft_perlu_verifikasi
+A0410,ngitungin,menghitung,hitung,ng-...-in,tidak,,draft_perlu_verifikasi
+A0411,dihitungin,dihitung,hitung,di-...-in,tidak,,draft_perlu_verifikasi
+A0412,kehitung,terhitung,hitung,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0413,ngejadwalin,menjadwalkan,jadwal,nge-...-in,tidak,,draft_perlu_verifikasi
+A0414,dijadwalin,dijadwalkan,jadwal,di-...-in,tidak,,draft_perlu_verifikasi
+A0415,kejadwal,terjadwal,jadwal,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0416,jadwalan,penjadwalan,jadwal,-an,tidak,,draft_perlu_verifikasi
+A0417,ngegagalin,menggagalkan,gagal,nge-...-in,tidak,,draft_perlu_verifikasi
+A0418,digagalin,digagalkan,gagal,di-...-in,tidak,,draft_perlu_verifikasi
+A0419,ngelulusin,meluluskan,lulus,nge-...-in,tidak,,draft_perlu_verifikasi
+A0420,dilulusin,diluluskan,lulus,di-...-in,tidak,,draft_perlu_verifikasi
+A0421,nyariin,mencarikan,cari,ny-...-in,ya,'nyariin' = mencarikan atau mencari (mencari saya),draft_perlu_verifikasi
+A0422,dicariin,dicari,cari,di-...-in,tidak,,draft_perlu_verifikasi
+A0423,nyatet,mencatat,catet,ny-,tidak,,draft_perlu_verifikasi
+A0424,nyatetin,mencatat,catet,ny-...-in,tidak,,draft_perlu_verifikasi
+A0425,dicatet,dicatat,catet,di-,tidak,,draft_perlu_verifikasi
+A0426,dicatetin,dicatat,catet,di-...-in,tidak,,draft_perlu_verifikasi
+A0427,kecatet,tercatat,catet,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0428,catetan,catatan,catet,-an,tidak,,draft_perlu_verifikasi
+A0429,nuker,menukar,tuker,n-,tidak,,draft_perlu_verifikasi
+A0430,nukerin,menukar,tuker,n-...-in,tidak,,draft_perlu_verifikasi
+A0431,dituker,ditukar,tuker,di-,tidak,,draft_perlu_verifikasi
+A0432,ditukerin,ditukar,tuker,di-...-in,tidak,,draft_perlu_verifikasi
+A0433,ketuker,tertukar,tuker,ke-,ya,'ketuker' = tertukar (data/berkas/nilai tertukar),draft_perlu_verifikasi
+A0434,ngegabung,bergabung,gabung,nge-,ya,'ngegabung' = bergabung atau menggabungkan,draft_perlu_verifikasi
+A0435,ngegabungin,menggabungkan,gabung,nge-...-in,tidak,,draft_perlu_verifikasi
+A0436,digabung,digabungkan,gabung,di-,tidak,,draft_perlu_verifikasi
+A0437,digabungin,digabungkan,gabung,di-...-in,tidak,,draft_perlu_verifikasi
+A0438,kegabung,tergabung,gabung,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0439,ngepisah,memisahkan,pisah,nge-,tidak,,draft_perlu_verifikasi
+A0440,ngepisahin,memisahkan,pisah,nge-...-in,tidak,,draft_perlu_verifikasi
+A0441,dipisah,dipisahkan,pisah,di-,tidak,,draft_perlu_verifikasi
+A0442,dipisahin,dipisahkan,pisah,di-...-in,tidak,,draft_perlu_verifikasi
+A0443,kepisah,terpisah,pisah,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0444,ngekunci,mengunci,kunci,nge-,tidak,,draft_perlu_verifikasi
+A0445,ngekunciin,mengunci,kunci,nge-...-in,tidak,,draft_perlu_verifikasi
+A0446,dikunciin,dikunci,kunci,di-...-in,tidak,,draft_perlu_verifikasi
+A0447,kekunci,terkunci,kunci,ke-,ya,'kekunci' = terkunci (akun/pintu),draft_perlu_verifikasi
+A0448,ngemacetin,memacetkan,macet,nge-...-in,tidak,,draft_perlu_verifikasi
+A0449,dimacetin,dimacetkan,macet,di-...-in,tidak,,draft_perlu_verifikasi
+A0450,kemacet,macet,macet,ke-,tidak,pasif tak sengaja (ke-): kejadian di luar kendali pelaku,draft_perlu_verifikasi
+A0451,pendingnya,tertundanya,pending,-nya,tidak,,draft_perlu_verifikasi
+A0452,lemotnya,lambatnya,lemot,-nya,tidak,,draft_perlu_verifikasi
+A0453,errornya,kesalahannya,error,-nya,tidak,campur kode,draft_perlu_verifikasi
+A0454,ribetnya,rumitnya,ribet,-nya,tidak,,draft_perlu_verifikasi
+A0455,dispennya,dispensasinya,dispen,-nya,tidak,,draft_perlu_verifikasi
+A0456,approvenya,persetujuannya,approve,-nya,tidak,,draft_perlu_verifikasi
+A0457,rejectnya,penolakannya,reject,-nya,tidak,,draft_perlu_verifikasi
+A0458,printnya,hasil cetaknya,print,-nya,tidak,,draft_perlu_verifikasi
+A0459,submitnya,pengumpulannya,submit,-nya,tidak,,draft_perlu_verifikasi
+A0460,loginnya,proses masuknya,login,-nya,tidak,,draft_perlu_verifikasi
+A0461,resetnya,pengaturan ulangnya,reset,-nya,tidak,,draft_perlu_verifikasi
+A0462,downloadnya,unduhannya,download,-nya,tidak,,draft_perlu_verifikasi
+A0463,uploadnya,unggahannya,upload,-nya,tidak,,draft_perlu_verifikasi
+A0464,lockannya,penguncian,lock,-an-nya,tidak,,draft_perlu_verifikasi
+A0465,nunggu-nunggu,menunggu-nunggu,tunggu,reduplikasi n-,tidak,,draft_perlu_verifikasi
+A0466,ngecek-ngecek,mengecek berulang,cek,reduplikasi nge-,tidak,,draft_perlu_verifikasi
+A0467,kelempar-lempar,terlempar-lempar,lempar,ke-...reduplikasi,tidak,dilempar antarunit tanpa penyelesaian,draft_perlu_verifikasi
+A0468,keoper,terlempar ke unit lain,oper,ke-,ya,'keoper' = terlempar/diarahkan ke unit lain,draft_perlu_verifikasi
+A0469,dilockkan,dikunci,lock,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0470,didropkan,digugurkan,drop,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0471,disubmitkan,dikumpulkan,submit,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0472,dipendingkan,ditunda,pending,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0473,diapprovekan,disetujui,approve,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0474,direjectkan,ditolak,reject,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0475,direvisikan,direvisi,revisi,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0476,diprintkan,dicetak,print,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0477,didownloadkan,diunduh,download,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0478,diuploadkan,diunggah,upload,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0479,discankan,dipindai,scan,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0480,diresetkan,diatur ulang,reset,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0481,dikomplainkan,dikeluhkan,komplain,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0482,ditransferkan,ditransfer,transfer,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0483,diverifikasikan,diverifikasi,verifikasi,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0484,diinputkan,dimasukkan,input,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0485,diblockkan,diblokir,block,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0486,diinstallkan,dipasang,install,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0487,direstartkan,dimulai ulang,restart,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0488,direfreshkan,dimuat ulang,refresh,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0489,dieditkan,disunting,edit,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0490,diupdatekan,diperbarui,update,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0491,dikonfirmasikan,dikonfirmasi,konfirmasi,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0492,dicekkan,diperiksa,cek,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0493,difotokan,difoto,foto,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0494,difotokopikan,difotokopi,fotokopi,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0495,didobelkan,digandakan,dobel,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0496,dicancelkan,dibatalkan,cancel,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0497,diclosekan,ditutup,close,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
+A0498,diacckan,disetujui,acc,di-...-kan,tidak,bentuk semi-baku: di- + kata serapan/dasar + -kan; padanan baku mengikuti kata kerja Indonesia,draft_perlu_verifikasi
