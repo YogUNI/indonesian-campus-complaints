@@ -15,29 +15,29 @@ R013,token_tanpa_vokal,"\b[bcdfghjklmnpqrstvwxyz]{2,5}\b",(lookup kamus),"tdk, k
 R014,sambung_pisah,\b(ga|gak|gk|ngga)\s+([a-z]+)\b,tidak \2,ga bisa -> tidak bisa,Samakan penulisan 'gabisa' dan 'ga bisa'.,draft_perlu_verifikasi
 R015,url_email_telp_nim,(regex di masking.py),[URL]/[EMAIL]/[TELP]/[NIM],08123456789 -> [TELP],Lihat dokumen teknis bagian 8.1; wajib sebelum kamus & sebelum API.,draft_perlu_verifikasi
 R016,emoji_ke_fitur,(unicode emoji),(fitur),😭 🙏 🙂,"Petakan ke fitur sarkasme/emosi, bukan dihapus.",draft_perlu_verifikasi
-R017,hapus_zero_width,[\u200b\u200c\u200d\u2060\ufeff],,ga[ZWSP]bisa -> gabisa,"[T0] Zero-width space/joiner/BOM hasil copy-paste WA. Jalankan paling awal, sebelum masking.",draft_perlu_uji_regresi
+R017,hapus_zero_width,[\u200b\u200c\u200d\u2060\ufeff],nan,ga[ZWSP]bisa -> gabisa,"[T0] Zero-width space/joiner/BOM hasil copy-paste WA. Jalankan paling awal, sebelum masking.",draft_perlu_uji_regresi
 R018,nbsp_ke_spasi,[\u00a0\u202f\u2007\u2009\u2002\u2003\u3000], ,gedung[NBSP]D -> gedung D,[T0] Non-breaking dan spasi unicode lain jadi spasi biasa.,draft_perlu_uji_regresi
-R019,hapus_karakter_kontrol,[\x00-\x08\x0b\x0c\x0e-\x1f\x7f],,a[BEL]b -> ab,[T0] Karakter kontrol ASCII (kecuali tab/LF/CR).,draft_perlu_uji_regresi
-R020,hapus_variation_selector,[\ufe0e\ufe0f],,🙂[VS16] -> 🙂,[T0] Samakan representasi emoji sebelum dipetakan ke fitur emosi/sarkasme.,draft_perlu_uji_regresi
+R019,hapus_karakter_kontrol,[\x00-\x08\x0b\x0c\x0e-\x1f\x7f],nan,a[BEL]b -> ab,[T0] Karakter kontrol ASCII (kecuali tab/LF/CR).,draft_perlu_uji_regresi
+R020,hapus_variation_selector,[\ufe0e\ufe0f],nan,🙂[VS16] -> 🙂,[T0] Samakan representasi emoji sebelum dipetakan ke fitur emosi/sarkasme.,draft_perlu_uji_regresi
 R021,kutip_keriting_ganda,[\u201c\u201d\u201e],"""","“halo” -> ""halo""",[T0] Samakan tanda kutip ganda.,draft_perlu_uji_regresi
 R022,kutip_keriting_tunggal,[\u2018\u2019\u201a],',gak’ ada -> gak' ada,[T0] Samakan apostrof/kutip tunggal (penting untuk asw: assalamu'alaikum).,draft_perlu_uji_regresi
 R023,ellipsis_unicode,\u2026,...,tunggu… -> tunggu...,[T0] Ellipsis unicode jadi tiga titik.,draft_perlu_uji_regresi
 R024,tanda_hubung_unicode,[\u2013\u2014],-,senin–jumat -> senin-jumat,[T0] En/em dash jadi tanda hubung.,draft_perlu_uji_regresi
-R025,penanda_media_wa,(?i)<\s*(?:media omitted|media tidak disertakan|pesan ini telah dihapus|this message was deleted)\s*>|\[(?:gambar|foto|stiker|video|dokumen)\],,<Media omitted> -> (kosong),[T0] Buang penanda lampiran/pesan terhapus hasil ekspor WA. Simpan flag has_attachment sebagai fitur.,draft_perlu_uji_regresi
+R025,penanda_media_wa,(?i)<\s*(?:media omitted|media tidak disertakan|pesan ini telah dihapus|this message was deleted)\s*>|\[(?:gambar|foto|stiker|video|dokumen)\],nan,<Media omitted> -> (kosong),[T0] Buang penanda lampiran/pesan terhapus hasil ekspor WA. Simpan flag has_attachment sebagai fitur.,draft_perlu_uji_regresi
 R026,markup_wa_tebal,(?<!\w)\*(\S(?:[^*\n]*?\S)?)\*(?!\w),\1,*penting* banget -> penting banget,[T0] Buang tanda format tebal WA; simpan fitur emphasis=true.,draft_perlu_uji_regresi
 R027,markup_wa_miring,(?<!\w)_(\S(?:[^_\n]*?\S)?)_(?!\w),\1,_nilai_ belum keluar -> nilai belum keluar,[T0] Format miring WA; aman untuk snake_case karena dijaga lookaround.,draft_perlu_uji_regresi
 R028,markup_wa_coret,(?<!\w)~(\S(?:[^~\n]*?\S)?)~(?!\w),\1,~salah~ -> salah,[T0] Format coret WA.,draft_perlu_uji_regresi
 R029,markup_wa_monospace,(?s)```(.+?)```,\1,```kode``` -> kode,[T0] Format monospace WA.,draft_perlu_uji_regresi
 R030,mention_wa_nomor,"@\d{8,15}\b",[MENTION],@628123456789 -> [MENTION],"[T0] Mention WA berbentuk nomor telepon; ini PII, wajib sebelum kirim ke API.",draft_perlu_uji_regresi
 R031,baris_baru_ke_spasi,[\r\n]+, ,a\nb -> a b,[T0] Ratakan baris baru; hitung jumlah baris lebih dulu sebagai fitur panjang/struktur.,draft_perlu_uji_regresi
-R032,spasi_tepi,^\s+|\s+$,,'  halo  ' -> 'halo',[T0] Trim spasi di tepi teks.,draft_perlu_uji_regresi
+R032,spasi_tepi,^\s+|\s+$,nan,'  halo  ' -> 'halo',[T0] Trim spasi di tepi teks.,draft_perlu_uji_regresi
 R033,spasi_setelah_koma,"([A-Za-z]),(?=[A-Za-z])","\1, ","mati,dosen -> mati, dosen","[T2] Hanya antar-huruf; angka (1,5) tidak tersentuh.",draft_perlu_uji_regresi
-R034,spasi_setelah_titik_sebelum_penghubung,"(?i)\b([a-z]{2,})\.(?=(?:tapi|tp|dan|karena|krn|jadi|terus|trus|kalau|kalo|sedangkan|padahal|soalnya|makanya|lalu|akhirnya|cuma|cuman|tetapi)\b)",\1. ,selesai.tapi -> selesai. tapi,"[T2] Dibatasi pada kata penghubung agar domain/file (umb.ac.id, krs.pdf) aman. Jalankan SETELAH masking URL/email.",draft_perlu_uji_regresi
+R034,spasi_setelah_titik_sebelum_penghubung,"(?i)\b([a-z]{2,})\.(?=(?:tapi|tp|dan|karena|krn|jadi|terus|trus|kalau|kalo|sedangkan|padahal|soalnya|makanya|lalu|akhirnya|cuma|cuman|tetapi)\b)",\1. ,selesai.tapi -> selesai. tapi,"[T2] Dibatasi pada kata penghubung agar domain/file (kampus.ac.id, krs.pdf) aman. Jalankan SETELAH masking URL/email.",draft_perlu_uji_regresi
 R035,spasi_setelah_titik_koma,([A-Za-z]);(?=[A-Za-z]),\1; ,oke;lanjut -> oke; lanjut,[T2] Antar-huruf saja.,draft_perlu_uji_regresi
 R036,spasi_setelah_tanya_seru,([?!])(?=[A-Za-z]),\1 ,gimana?tolong -> gimana? tolong,[T2] Tanda tanya/seru langsung diikuti huruf.,draft_perlu_uji_regresi
 R037,hapus_spasi_sebelum_tanda,"\s+([,.;!?])",\1,"mati , dosen -> mati, dosen",[T2] Spasi sebelum tanda baca dibuang.,draft_perlu_uji_regresi
 R038,pisah_camelcase,(?<=[a-z])(?=[A-Z]), ,menaraLt4 -> menara Lt4,"[T2] Hati-hati: lindungi proper noun (WhatsApp, FastLearning, YouTube, iPhone) lewat daftar putih sebelum aturan ini; jalankan SETELAH aturan fasilitas (menara_lantai).",draft_perlu_uji_regresi
-R039,menara_lantai,"(?i)\bmenara\s*(?:lt|lantai)\.?\s*(\d{1,2})\b",menara lantai \1,menaraLt4 -> menara lantai 4,[T3] Harus sebelum pisah_camelcase. Nama 'menara' belum diverifikasi ke UMB (lihat kamus: entitas_umb).,draft_perlu_uji_regresi
+R039,menara_lantai,"(?i)\bmenara\s*(?:lt|lantai)\.?\s*(\d{1,2})\b",menara lantai \1,menaraLt4 -> menara lantai 4,[T3] Harus sebelum pisah_camelcase. Nama 'menara' belum diverifikasi ke kampus (lihat kamus: entitas_umb).,draft_perlu_uji_regresi
 R040,lantai_angka,"(?i)\b(?:lt|lantai)\.?\s*(\d{1,2})\b",lantai \1,lt3 / lt.3 / lt 3 -> lantai 3,[T3] 'lt' wajib diikuti angka (letnan tidak ikut terkena).,draft_perlu_uji_regresi
 R041,gedung_huruf,(?i)\b(?!gdg\b)(?:gd|gedung)\.?\s*([a-h])\b,gedung + huruf kapital(\1),gdd / gd.d / gd d -> gedung D,[T3] Template: 'gedung ' + huruf kapital(\1). 'gdg' (=gedung) sengaja dikecualikan. Rentang huruf a-h perlu dicek ke daftar gedung resmi (dokumen hanya mengonfirmasi Gedung D untuk ULT Meruya).,draft_perlu_uji_regresi
 R042,ruang_angka,(?i)\b(?:rg|r|ruang|ruangan|lab)\.?\s*(\d{3})\b,ruang \1,r202 / lab202 / rg.202 -> ruang 202,"[T3] Tipe ruang (lab) hilang; jika perlu bedakan, pecah menjadi aturan terpisah 'laboratorium \1'.",draft_perlu_uji_regresi
